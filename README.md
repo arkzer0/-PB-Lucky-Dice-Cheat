@@ -1,10 +1,10 @@
 # Cheat Lucky Dice - Point Blank
 
-![Tampilan Roller](https://github.com/arkzer0/PB.Lucky-Dice.Cheat/blob/master/1.PNG?raw=true)
-![Mendapatkan SG Box](https://github.com/arkzer0/PB.Lucky-Dice.Cheat/blob/master/2.PNG?raw=true)
-![Mendapatkan Meele Box](https://github.com/arkzer0/PB.Lucky-Dice.Cheat/blob/master/3.PNG?raw=true)
-![Roller di lokasi Meele Box](https://github.com/arkzer0/PB.Lucky-Dice.Cheat/blob/master/4.PNG?raw=true)
-![Cheat Point](https://github.com/arkzer0/PB.Lucky-Dice.Cheat/blob/master/5.PNG?raw=true)
+![Tampilan Roller](https://github.com/arkzer0/PB.Lucky-Dice.Cheat/blob/master/images/1.PNG?raw=true)
+![Mendapatkan SG Box](https://github.com/arkzer0/PB.Lucky-Dice.Cheat/blob/master/images/2.PNG?raw=true)
+![Mendapatkan Meele Box](https://github.com/arkzer0/PB.Lucky-Dice.Cheat/blob/master/images/3.PNG?raw=true)
+![Roller di lokasi Meele Box](https://github.com/arkzer0/PB.Lucky-Dice.Cheat/blob/master/images/4.PNG?raw=true)
+![Cheat Point](https://github.com/arkzer0/PB.Lucky-Dice.Cheat/blob/master/images/5.PNG?raw=true)
 
 ## Requirements
 
